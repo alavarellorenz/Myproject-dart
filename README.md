@@ -17,4 +17,4 @@ Una semplice applicazione di calcolatrice interattiva scritta in **Dart** (senza
 3. Naviga nella cartella del progetto.
 4. Esegui il programma con il comando:
    ```bash
-   dart run app.dart
+   dart run 
